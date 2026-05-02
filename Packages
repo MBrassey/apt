@@ -286,3 +286,27 @@ Description: Terminal UI for monitoring AI coding agents
  Implemented as a static Rust binary (ratatui + crossterm + clap), no runtime
  dependencies beyond a working terminal.
 
+Package: agtop
+Version: 2.4.5
+Architecture: amd64
+Maintainer: Matt Brassey <matt@brassey.io>
+Installed-Size: 4108
+Filename: pool/agtop_2.4.5_amd64.deb
+Size: 1352806
+MD5sum: 3fe0dc1e126d9c369352017f00b2aa5f
+SHA1: c8914bc4e8e63124f856709305b7c964c34fd85a
+SHA256: 69cc57cc5ba6512e97582e3efaf709af6a6e0658c60ad3e28ea7983fbdc65a45
+Section: admin
+Priority: optional
+Homepage: https://github.com/mbrassey/agtop
+Description: Terminal UI for monitoring AI coding agents
+ agtop is a top-style terminal UI that surfaces every AI coding agent running
+ on the system: Claude Code, Codex, Aider, Cursor, Gemini, Goose, Continue,
+ Opencode, Copilot CLI, and more. It shows live PID, command, working
+ directory, RSS, CPU%, uptime, files being written, and recent activity, plus
+ a panel for Claude Code session state (active / waiting / completed /
+ subagents) and Chart-widget history of CPU, memory, and active-agent count.
+ .
+ Implemented as a static Rust binary (ratatui + crossterm + clap), no runtime
+ dependencies beyond a working terminal.
+
