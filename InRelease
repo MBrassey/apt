@@ -4,30 +4,30 @@ Hash: SHA512
 Architectures: amd64
 Codename: agtop
 Components: main
-Date: Sat, 02 May 2026 06:14:48 +0000
+Date: Sat, 02 May 2026 06:21:24 +0000
 Label: agtop
 Origin: MBrassey
 Suite: stable
 MD5Sum:
- 680107d59ddaf86f97a2bbf18fa2ab0a            14476 Packages
- 493640b750f95175e1e23e988b53f3a2             2176 Packages.gz
- 364bee9e076de5c3340d33ca5889cf72              136 Release
+ ca27a1a4a869bca20c6113f8ab399566            15510 Packages
+ d48176f56eddb3d4277ff6a5db364081             2285 Packages.gz
+ b8eb7ee2e6e43b9bdc02f4b52ad1d7b0              136 Release
 SHA1:
- cc77e97d7ad46b0ff58fdbe33190afcdc7a95fa5            14476 Packages
- 5f72aafaf257788c883d6147cf64f082224b27ef             2176 Packages.gz
- 19295ed9bcf0f6c1f24af6a864bbc70027dd7359              136 Release
+ 2b62163452d36a4650a5935425fe5a75cec1b743            15510 Packages
+ 222d5cf1c29c2558ff6c8b3ea7a3ff83afaebba1             2285 Packages.gz
+ 1f2c989a750a95652d0784decdadc579e365776e              136 Release
 SHA256:
- 113ca7599d9631119cc0c7002a21d302058f4f0cba3f0a7153b4f551357fc1e6            14476 Packages
- 51c07d89ba0beac3c56e86ea36065deee7620a7d6f7c8f57b928ba55ec7d6ee0             2176 Packages.gz
- e3ba742c9ec4b6ad8ff804a4367d2ac5bb024e8cf5561161ae81929833339df9              136 Release
+ 14ca99f1e0febb2d57473e853de353873258233ad66fbdaa2cc0b34a5d537805            15510 Packages
+ 3a04bcd5b7ee7251a69a1a94739212a9bfc53bff3c8bdc142ae1965fdbcf6b91             2285 Packages.gz
+ baaab8b8b950bec61404462012d75601063ce6d2b4c73bc798f21043fa226993              136 Release
 SHA512:
- a41e4e882be1ac63d60b5e8febdb77ad2c4ed46e6e4e659494b5afd88256e06a0002211f5ee0b9a635d72f102f97a393c7963482ef007585c5f5d3ff347a42ed            14476 Packages
- 38e8e4bc8337ae5bcf9fb5dd4bbcf8d97d54fa51756ed7a8aa733c3a965213c14858cf50f7a4de7745b8091589db821ebeccf84f34349ee0412dc536be671379             2176 Packages.gz
- ee90a5390cc0fd673a599f97e667fee67b27e63c327c9528c4d34fab3e54a6332ef51caf34bcfa7f0237c494c6b202d6c14e58bedc6a32b9ae15bcba3be40fb7              136 Release
+ 9e36ab44c3e6678f78019e0bbd920213729a07a75ec678d6e6701e1aed47d69ee290b9367bd82b00c3692b10a0170703bb41c7d74643e176314f15b8903a3200            15510 Packages
+ 4820452083a06eb7a408d4230ebd9fc4f1308f32cc9846b90951c61c8c62ef45a51efb3dec9c14d5093bba7c012aa8f0510c2027e3799f74298c9a4e75ad09d9             2285 Packages.gz
+ 1b46c67dffff47f11792bd180759ed2e434374abb18ad3343d2a86cf13764b1fdb01aaab3d921fea983f37e1f98dc7b0bfe126fa657dbf32d4ff8ced95f3e89f              136 Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQT8i/ZzWHE0oRSyBaBjLwZYtHiUKgUCafWWWAAKCRBjLwZYtHiU
-KlZsAP9fhUfmbg54Da+dw7ZamOp2NSw7sefMgyXLzAgCB2mrNQEAq+ki4J+t25EB
-EGAVw6fzx0UqIEaMZZy2p+YiuJnTTQQ=
-=Larj
+iHUEARYKAB0WIQT8i/ZzWHE0oRSyBaBjLwZYtHiUKgUCafWX5AAKCRBjLwZYtHiU
+KisKAP9fcRN6OauQ3gVoQU6LKY1sX9Q3wbFtWq6lLCKmb/hcOgD/SKHpvSvqPCyG
+GjGd35z7OQXFp2ke8xE9Ofk9ZcVCkAc=
+=hAjC
 -----END PGP SIGNATURE-----
