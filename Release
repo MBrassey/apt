@@ -1,23 +1,23 @@
 Architectures: amd64
 Codename: agtop
 Components: main
-Date: Sun, 10 May 2026 03:39:34 +0000
+Date: Sun, 10 May 2026 05:50:36 +0000
 Label: agtop
 Origin: MBrassey
 Suite: stable
 MD5Sum:
- 93599973fd6e33f21117e119ed64e23c            25866 Packages
- a8fee79a0c81be81e1ab70e55a7a90eb             3361 Packages.gz
- ae33c6fafccf564149f4d0c077d2063d              136 Release
+ f9169eb5f8d123d84f5fcd66f564dc65            26902 Packages
+ 964f7be8f38840b1a9f231f3b64b42cc             3465 Packages.gz
+ d54d36ec2da086e1c114a7c06eaac761              136 Release
 SHA1:
- 501aac48bf5ff8274dc761cea3ede5e05537c522            25866 Packages
- fb5f0fa2f6c33013140caaee0fe1acc5c5322843             3361 Packages.gz
- 8a911dd37b83ee344a594ef5c1f15f738220b993              136 Release
+ 4bbb85f8c8de567fca1436a8e91cfeb6cde8b433            26902 Packages
+ 35d1e1dedc4483d06d71398203916a56f6e9a341             3465 Packages.gz
+ 8d995ce1031cc2fef01b7d4a3bdd0ab853998ea7              136 Release
 SHA256:
- bae87b5f3a989acd911caf8f62b2ec8f0f9871bad81947f237ae3c6905fd1029            25866 Packages
- 9fc4c4deff81d53b1e33d4c2f27923e53bcddf82fb0c23551d928d33de85295e             3361 Packages.gz
- 2a4edc775ef8ab18809f2261dedaaa506039a8fa990d34984195f10892466602              136 Release
+ 0252ab60079e85bef86f774748784585016d329d9855bba8007aeffdc8a08f7c            26902 Packages
+ f27a5b4e0098c35cbb919aa15789bbf5adf8fb6bd1931068f0884240e5f47317             3465 Packages.gz
+ 83d72a4dce8d44857c1802d04d8e5e320188e9d194cd1be99beae81b44d949e9              136 Release
 SHA512:
- bda54b675a3f8ea95bebc78ccdd90673f7d94aa3588c5dff9d3fb779ca813b37f6082f688872de59a6f7a445488d8dfcbd1f374e9cc7aa965ae76bfdee0a81e1            25866 Packages
- bcaa89959f247f43f231c619c661db8b06c62ef0bbce113c25f6de0f76ddf73e7da4fa65835f6c936b5d73f69865fb62b5bfec499336760eed5f3ff1ccd9f86f             3361 Packages.gz
- fa6e8ae0e340da75dd9547801770afd1e6cafca815847a9fa98cf1908a96538ae257940c414d40a315dc7685f897e784b81d89b86b03a072137cf33ce7cd8705              136 Release
+ 06841cd86d4e721c95bbc0e08b87f3e3f2a5c9f4c3de7691398fb181f6e211a3be23c1083ad2de897e38c6695343f895f51d9bdb00dfad0f6d38414681a54d38            26902 Packages
+ a1c8acc652b455096d1689bdb40eaacf1b6677d4b70ea06207cb558bf0cf15115595a30aa14d068b5732633b4b65e1a5924ded2359e5c4a02b0f7779106915b6             3465 Packages.gz
+ b71c08284ea0459b2f6728cadcc28c472805cda231e8086d1a9a71a08e1b4ef2cccb5bae344aed56c6067b65c116a0b7f6f1a04bf4b77103b9aa5b08fed28b35              136 Release
